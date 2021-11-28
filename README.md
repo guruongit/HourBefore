@@ -4,5 +4,12 @@ HourBefore is a simulation project based on python. It is build to predict a sav
 Below Image showing airport's locations in the state as defined by the program's algorithm.
 ![alt text](https://raw.githubusercontent.com/guruongit/HourBefore/main/Airports_In_State.jpg)
 
-Below Image showing path of a flight having flight ID 8.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guruongit/HourBefore/main/Airports_In_State.jpg" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/guruongit/HourBefore/main/Airports_In_State.jpg" width="350" alt="accessibility text">
+</p>
+
+ Below Image showing path of a flight having flight ID 8.
+
+
 ![alt text](https://raw.githubusercontent.com/guruongit/HourBefore/main/Flight_Id_8_Path%20.jpg)
